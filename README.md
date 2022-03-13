@@ -1,10 +1,6 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Govind Singh 👩‍💻</h1>
 <br>
 
-I am an Graduate Student
-pursuing my B.Tech from Heritage Institute of Technology, Kolkata
-
-<br>
 
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
@@ -23,19 +19,12 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/2x/c-programming.png" height=50px/></a>
     <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://jquery.com/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.android.com/intl/en_in/" target="_blank"><img src="https://img.icons8.com/color/48/000000/android-os.png"/></a>
-    <a href="https://wordpress.com/"><img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/></a>
+    <a href="https://wordpress.com/"><img src="https://img.icons8.com/plasticine/2x/react.png" height=50px /></a>
 </p>
 
-<br>
-
-##### I am currently listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <br>
 
@@ -49,10 +38,10 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 
 ### Lets connect through:
-<a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
+<a href="https://www.facebook.com/gaurav.rautela.560"><img src="https://img.icons8.com/fluency/2x/facebook-new.png" height=50px/></a>
+<a href="https://twitter.com/grvrautela90"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/govind-singh-81849821b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://www.instagram.com/gaurav.rautela.560/"><img src="https://img.icons8.com/fluency/2x/instagram-new.png" height=50px/></a>
 
 
 
