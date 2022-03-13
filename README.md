@@ -1,7 +1,7 @@
-<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Bhumika 👩‍💻</h1>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Govind Singh 👩‍💻</h1>
 <br>
 
-I am an Undergraduate Student
+I am an Graduate Student
 pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 <br>
@@ -9,10 +9,9 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
-- 🌱 I’m currently learning Data Structures and Algorithms
+- 🌱 I’m currently doing full-stack web development course
 - 👯 I’m looking to collaborate on open source
-- 📫 Reach out to me: bhumikatewary49@gmail.com
-- ⚡ Fun fact: I know how to play a piano
+- 📫 Reach out to me: grvrautela90@gmail.com
 
 <br>
 
@@ -57,4 +56,4 @@ pursuing my B.Tech from Heritage Institute of Technology, Kolkata
 
 
 
-[resume]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1YDFq43uxf3OjazGf2z9lvjSF_GmrBpqu/view?usp=sharing
