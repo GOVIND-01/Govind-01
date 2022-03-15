@@ -1,11 +1,11 @@
 <h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Govind Singh 👩‍💻</h1>
 <br>
-
-
+I’m currently doing full-stack web development course from Masai School.
+<br>
 <img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="500" height="320" />
 
 - ✍ You can find my resume here [Resume]
-- 🌱 I’m currently doing full-stack web development course
+- 🌱 New Delhi
 - 👯 I’m looking to collaborate on open source
 - 📫 Reach out to me: grvrautela90@gmail.com
 
